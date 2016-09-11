@@ -29,7 +29,7 @@ This app will consist of a single screen containing four sections:
 
 Additionally, a modal will be rendered after the page loads to explain the rules and controls. Since the controls be easy to remember, no additional controls section is planned.
 
-![wireframes](/wireframes/wireframe.png)
+![wireframes](/docs/wireframes/wireframe.png)
 
 ### Architecture and Technologies
 
