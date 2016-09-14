@@ -1,0 +1,33 @@
+ul {
+  display: inherit;
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+  border: 0;
+
+}
+
+#header {
+  display: flex;
+  width: 1000px;
+  justify-content: space-between;
+  background-color: red;
+  color: white;
+}
+
+.group{
+  content: "";
+  clear: both;
+  display: block;
+}
+
+#header ul {
+  list-style: none;
+  font-size: 22px;
+  flex-direction: column;
+  padding: 5px;
+}
+
+.buttons input {
+  margin-top: 5px;
+}
