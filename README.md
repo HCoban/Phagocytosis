@@ -4,7 +4,7 @@
 
 [live]: http://hcoban.github.io
 
-Phagocytosis is a single-player game inspired by agar.io. and developed on javascript. The game is rendered on a rectangle representing an 2-d culture of living cells. Cells have a circular shape with varying radii. The game rules are as follows:
+Phagocytosis is a single-player game inspired by agar.io and developed on javascript. The game is rendered on a rectangle representing an 2-d culture of living cells. Cells have a circular shape with varying radii. The game rules are as follows:
 
 - Cells grow by engulfing (eating) other cells which are smaller in radius. Engulfing occurs when two cells are in contact.
 - The larger a cell is, the slower it becomes.
