@@ -9,7 +9,7 @@ ul, input, div, li{
 
 body {
   box-sizing: border-box;
-
+  position: relative;
 }
 
 #header {
@@ -42,4 +42,22 @@ body {
   padding: 5px;
   color: black;
   border-radius: 5px;
+}
+
+#modal {
+  display: flex;
+  flex-direction: column;
+  background-color: red;
+  position: absolute;
+  width: 400px;
+  z-index: 1;
+  left: 200px;
+  top: 200px;
+  color: white;
+  padding: 20px;
+}
+
+.modal-content {
+  display: flex;
+  flex-direction: column;
 }
