@@ -1,4 +1,4 @@
-ul, input, div, li{
+ul, input, div, li, p {
   display: inherit;
   box-sizing: inherit;
   padding: 0;
@@ -39,7 +39,7 @@ body {
 }
 
 .buttons input {
-  padding: 5px;
+  padding: 5px 13px;
   color: black;
   border-radius: 5px;
 }
@@ -55,9 +55,32 @@ body {
   top: 200px;
   color: white;
   padding: 20px;
+  border-radius: 5px;
 }
 
 .modal-content {
   display: flex;
   flex-direction: column;
+  align-items: center
+}
+
+.start {
+  padding: 5px 100px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+input:hover {
+  cursor: pointer;
+}
+
+.modal-content p {
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  padding: 15px 0px;
+}
+
+.modal-content p:first-child{
+  font-size: 28px
 }
