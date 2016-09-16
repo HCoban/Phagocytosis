@@ -1,4 +1,4 @@
-# Coussie
+# Phagocytosis
 
 [Phagocytosis live][live]
 
@@ -91,4 +91,4 @@ The following features are anticipated to be implemented.
 - Sharing score on facebook, twitter
 - flagellum attack: the cell will have a wipe-like weapon to freeze/kill/scare other cells upon click. The rendering of flagellum has been already implemented for testing purposes. I will decide about its functionality.
 - Engulfing animation: Cell collision can be animated as engulfing instead of simple contact.
-- Antibiotic drop: A drop of antibiotic will occur on a random location and spread with time. Rendering of spreading antibiotic will require gradient-coloring. Player will need to eat antibiotic-resistant cells in order to gain resistance and survive the spreading antibiotic. 
+- Antibiotic drop: A drop of antibiotic will occur on a random location and spread with time. Rendering of spreading antibiotic will require gradient-coloring. Player will need to eat antibiotic-resistant cells in order to gain resistance and survive the spreading antibiotic.
