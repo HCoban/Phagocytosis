@@ -2,7 +2,7 @@
 
 [Phagocytosis live][live]
 
-[live]: http://hcoban.github.io
+[live]: http://hcoban.github.io/Phagocytosis
 
 Phagocytosis is a single-player game inspired by agar.io and developed on javascript. The game is rendered on a rectangle representing an 2-d culture of living cells. Cells have a circular shape with varying radii. The game rules are as follows:
 
